@@ -9,7 +9,7 @@ This repo contains my core configuration files so I can quickly replicate my ter
 ## 🚀 Quick Setup (New Machine)
 
 ```bash
-git clone git@github.com:YOUR_USERNAME/dotfiles.git ~/dotfiles
+git clone git@github.com:ethanryan/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ln -sf ~/dotfiles/.zshrc ~/.zshrc
 ln -sf ~/dotfiles/.gitconfig ~/.gitconfig
